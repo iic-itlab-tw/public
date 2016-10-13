@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/earlyaccess/notosanstc.css);
+@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
 /* Remove the navbar's default margin-bottom and rounded borders */
 
 .navbar {
@@ -15,7 +15,7 @@
 .sidenav {
     padding-top: 20px;
     /*background-color: #f1f1f1;*/
-    
+
     height: 100%;
 }
 .jumbotron {
